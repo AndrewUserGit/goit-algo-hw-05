@@ -39,3 +39,4 @@ total_income = sum_profit(text, generator_numbers)
 print(f"Загальний дохід: {total_income}")
 
 
+
